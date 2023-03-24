@@ -1,0 +1,4 @@
+# Queries operations
+type Query {
+    graphqlTraceId: String!
+}
